@@ -1,0 +1,12 @@
+Heading Utama: Daffa FauzyNugraha  IT Student
+H1: Daffa FauzyNugraha  IT Student
+H2: About
+H2: I'm Daffa Fauzy
+H2: Experience
+H2: My Experience
+H2: Contact
+Link Navigasi: #home - Home
+Link Navigasi: #about - About
+Link Navigasi: #experience - Experience
+Link Navigasi: #contact - Contact
+Link Navigasi: pages/scrapping.html - Data Scraping
